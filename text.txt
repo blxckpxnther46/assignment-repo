@@ -1,3 +1,5 @@
+changes made
+
 The Commands
 
 git init: This command creates a new, empty Git repository in your current folder. It's the starting point for any new project you want to track with Git.
